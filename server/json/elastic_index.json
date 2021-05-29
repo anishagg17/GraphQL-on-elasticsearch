@@ -1,0 +1,354 @@
+{
+  "study": [{
+  "_index": "studies_production",
+  "_type": "study",
+  "_id": "NCT03193190",
+  "_version": 12,
+  "_seq_no": 202084,
+  "_primary_term": 1,
+  "found": true,
+  "_source": {
+    "nct_id": "NCT03193190",
+    "study_first_submitted_date": "2017-06-09",
+    "results_first_submitted_date": null,
+    "disposition_first_submitted_date": null,
+    "last_update_submitted_date": "2020-12-14",
+    "study_first_submitted_qc_date": "2017-06-16",
+    "study_first_posted_date": "2017-06-20",
+    "study_first_posted_date_type": "Actual",
+    "results_first_submitted_qc_date": null,
+    "results_first_posted_date": null,
+    "results_first_posted_date_type": null,
+    "disposition_first_submitted_qc_date": null,
+    "disposition_first_posted_date": null,
+    "disposition_first_posted_date_type": null,
+    "last_update_submitted_qc_date": "2020-12-14",
+    "last_update_posted_date": "2020-12-16",
+    "last_update_posted_date_type": "Actual",
+    "start_date": "2017-07-05",
+    "completion_date": "2021-11-03",
+    "study_type": "Interventional",
+    "acronym": null,
+    "baseline_population": "",
+    "brief_title": "A Study of Multiple Immunotherapy-Based Treatment Combinations in Participants With Metastatic Pancreatic Ductal Adenocarcinoma (Morpheus-Pancreatic Cancer)",
+    "official_title": "A Phase Ib/II, Open-Label, Multicenter, Randomized Umbrella Study Evaluating the Efficacy and Safety of Multiple Immunotherapy-Based Treatment Combinations in Patients With Metastatic Pancreatic Ductal Adenocarcinoma (Morpheus-Pancreatic Cancer)",
+    "overall_status": "Recruiting",
+    "last_known_status": null,
+    "phase": "Phase 1/Phase 2",
+    "enrollment": 290,
+    "enrollment_type": "Anticipated",
+    "source": "Hoffmann-La Roche",
+    "number_of_arms": 12,
+    "number_of_groups": null,
+    "why_stopped": null,
+    "has_expanded_access": false,
+    "expanded_access_type_treatment": null,
+    "is_fda_regulated_drug": true,
+    "is_fda_regulated_device": false,
+    "ipd_time_frame": null,
+    "ipd_access_criteria": null,
+    "ipd_url": null,
+    "plan_to_share_ipd": null,
+    "plan_to_share_ipd_description": null,
+    "created_at": "2021-01-01T05:35:31.265-05:00",
+    "updated_at": "2021-01-01T05:35:31.265-05:00",
+    "brief_summary": "\n      A Phase Ib/II, open-label, multicenter, randomized study designed to assess the safety,\r\n      tolerability, pharmacokinetics and preliminary anti-tumor activity of immunotherapy-based\r\n      treatment combinations in participants with metastatic Pancreatic Ductal Adenocarcinoma\r\n      (PDAC).\r\n\r\n      Two cohorts will be enrolled in parallel in this study: Cohort 1 will consist of patients who\r\n      have received no prior systemic therapy for metastatic PDAC, and Cohort 2 will consist of\r\n      patients who have received one line of prior systemic therapy for PDAC. In each cohort,\r\n      eligible patients will be assigned to one of several treatment arms.\r\n    ",
+    "detailed_description": null,
+    "browse_condition_mesh_terms": [
+      "Adenocarcinoma"
+    ],
+    "conditions": [
+      "pancreatic adenocarcinoma"
+    ],
+    "browse_interventions_mesh_terms": [
+      "Leucovorin",
+      "Gemcitabine",
+      "Paclitaxel",
+      "Bevacizumab",
+      "Fluorouracil",
+      "Oxaliplatin",
+      "Atezolizumab"
+    ],
+    "interventions_mesh_terms": [
+      "Nab-Paclitaxel",
+      "Gemcitabine",
+      "Oxaliplatin",
+      "Leucovorin",
+      "Fluorouracil",
+      "Atezolizumab",
+      "Cobimetinib",
+      "PEGPH20",
+      "BL-8040",
+      "Selicrelumab",
+      "Bevacizumab",
+      "RO6874281",
+      "AB928",
+      "Tiragolumab",
+      "Tocilizumab"
+    ],
+    "interventions": [
+      "Nab-Paclitaxel will be administered as per the schedule specified in the respective arm.",
+      "Gemcitabine will be administered as per the schedule specified in the respective arm.",
+      "Oxaliplatin will be administered as per the schedule specified in the respective arm.",
+      "Leucovorin will be administered as per the schedule specified in the respective arm.",
+      "Fluorouracil will be administered as per the schedule specified in the respective arm.",
+      "Atezolizumab will be administered as per the schedule specified in the respective arm.",
+      "Cobimetinib will be administered as per the schedule specified in the respective arm.",
+      "PEGPH20 will be administered as per the schedule specified in the respective arm.",
+      "BL-8040 will be administered as per the schedule specified in the respective arm.",
+      "Selicrelumab will be administered as per the schedule specified in the respective arm.",
+      "Bevacizumab will be administered as per the schedule specified in the respective arm.",
+      "RO6874281 will be administered as per the schedule specified in the respective arm",
+      "AB928 will be administered as per the schedule specified in the respective arm.",
+      "Tiragolumab will be administered as per the schedule specified in the respective arm.",
+      "Tocilizumab will be administered as per the schedule specified in the respective arm."
+    ],
+    "design_outcome_measures": [
+      "Percentage of Participants With Objective Response, as Determined by Investigator According to Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1 (v1.1)",
+      "Percentage of Participants With Adverse Events (AEs)",
+      "Progression-Free Survival (PFS), as Determined by Investigator According to RECIST v1.1",
+      "Overall Survival",
+      "Percentage of Participants who are Alive at Month 6",
+      "Duration of Response, as Determined by Investigator According to RECIST v1.1",
+      "Percentage of Participants With Disease Control, as Determined by Investigator According to RECIST v1.1"
+    ],
+    "facility_names": [
+      "City of Hope Comprehensive Cancer Center",
+      "Helen Diller Fam Comp Can Ctr",
+      "Smilow Cancer Hospital at Yale New Haven",
+      "Lombardi Cancer Center, Georgetown University",
+      "Uni of Chicago Medical Center; Room M454",
+      "Massachusetts General Hospital",
+      "Beth Israel Deaconess Medical Center",
+      "Dana-Farber Cancer Institute",
+      "Morristown Medical Center",
+      "Columbia University",
+      "Memorial Sloan Kettering Cancer Center",
+      "Oregon Health and Science University",
+      "Hillman Cancer Center;Medical Oncology",
+      "Sarah Cannon Cancer Center",
+      "Medical College of Wisconsin",
+      "Charite - Campus Virchow-Klinikum",
+      "Universitätsklinikum Essen; Innere Klinik und Poliklinik für Tumorforschung",
+      "Samsung Medical Center",
+      "Seoul National University Hospital",
+      "Asan Medical Center",
+      "Clínica Universidad de Navarra",
+      "Hospital Universitario Vall d'Hebron",
+      "Hosp. G. U Gregorio Marañón",
+      "Hospital Universitario Ramon y Cajal"
+    ],
+    "facility_states": [
+      "California",
+      "California",
+      "Connecticut",
+      "District of Columbia",
+      "Illinois",
+      "Massachusetts",
+      "Massachusetts",
+      "Massachusetts",
+      "New Jersey",
+      "New York",
+      "New York",
+      "Oregon",
+      "Pennsylvania",
+      "Tennessee",
+      "Wisconsin",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "Navarra",
+      "",
+      "",
+      ""
+    ],
+    "facility_cities": [
+      "Duarte",
+      "San Francisco",
+      "New Haven",
+      "Washington",
+      "Chicago",
+      "Boston",
+      "Boston",
+      "Boston",
+      "Morristown",
+      "New York",
+      "New York",
+      "Portland",
+      "Pittsburgh",
+      "Germantown",
+      "Milwaukee",
+      "Berlin",
+      "Essen",
+      "Seoul",
+      "Seoul",
+      "Seoul",
+      "Pamplona",
+      "Barcelona",
+      "Madrid",
+      "Madrid"
+    ],
+    "facility_countries": [
+      "United States",
+      "United States",
+      "United States",
+      "United States",
+      "United States",
+      "United States",
+      "United States",
+      "United States",
+      "United States",
+      "United States",
+      "United States",
+      "United States",
+      "United States",
+      "United States",
+      "United States",
+      "Germany",
+      "Germany",
+      "Korea, Republic of",
+      "Korea, Republic of",
+      "Korea, Republic of",
+      "Spain",
+      "Spain",
+      "Spain",
+      "Spain"
+    ],
+    "locations": [
+      {
+        "lat": 34.1298507,
+        "lon": -117.9707722
+      },
+      {
+        "lat": 37.7662668,
+        "lon": -122.3903787
+      },
+      {
+        "lat": 41.304827,
+        "lon": -72.9359041
+      },
+      {
+        "lat": 38.9109602,
+        "lon": -77.0759182
+      },
+      {
+        "lat": 41.7887967,
+        "lon": -87.6042591
+      },
+      {
+        "lat": 42.363376,
+        "lon": -71.0686521
+      },
+      {
+        "lat": 42.346576,
+        "lon": -71.100056
+      },
+      {
+        "lat": 42.3375671,
+        "lon": -71.1081453
+      },
+      {
+        "lat": 40.7894006,
+        "lon": -74.4656519
+      },
+      {
+        "lat": 40.7646529,
+        "lon": -73.9634264
+      },
+      {
+        "lat": 45.4992017,
+        "lon": -122.6867232
+      },
+      {
+        "lat": 40.4553773,
+        "lon": -79.9424527
+      },
+      {
+        "lat": 36.1523006,
+        "lon": -86.8110826
+      },
+      {
+        "lat": 43.0427074,
+        "lon": -88.0221441
+      }
+    ],
+    "average_rating": 5.0,
+    "reviews_count": 1,
+    "reviews": [
+      "---\nOverall Rating: 5\nSafety: 0\nEfficacy: 0\n---\nThe trial has multiple arms testing various combinations targeting mechanisms to allow immune cells to attack the cancer. The trial allows for patients to  receive additional treatments if the first one received doesn’t work. \n"
+    ],
+    "sponsors": [
+      "Hoffmann-La Roche"
+    ],
+    "rating_dimensions": [
+      "Overall Rating",
+      "Safety",
+      "Efficacy"
+    ],
+    "indexed_at": "2021-01-09T19:15:14.942Z",
+    "study_views_count": 6,
+    "wiki_page_edits": {
+      "email": [
+        "williamhoos@gmail.com",
+        "williamhoos@gmail.com",
+        "williamhoos@gmail.com",
+        "williamhoos@gmail.com",
+        "lolarahib@gmail.com",
+        "lolarahib@gmail.com",
+        "williamhoos@gmail.com",
+        "williamhoos@gmail.com",
+        "lolarahib@gmail.com",
+        "lolarahib@gmail.com",
+        "williamhoos@gmail.com",
+        "williamhoos@gmail.com",
+        "lolarahib@gmail.com",
+        "sheri.tibbs@gmail.com",
+        "williamhoos@gmail.com",
+        "williamhoos@gmail.com"
+      ],
+      "created_at": [
+        "2021-01-09T17:40:10.283+00:00",
+        "2021-01-09T17:17:09.892+00:00",
+        "2020-12-08T23:35:29.491+00:00",
+        "2020-04-06T04:50:32.261+00:00",
+        "2019-01-28T02:46:02.892+00:00",
+        "2019-01-28T02:47:12.260+00:00",
+        "2019-01-28T02:58:46.064+00:00",
+        "2019-01-28T03:26:47.007+00:00",
+        "2019-01-30T02:14:57.362+00:00",
+        "2019-01-30T02:41:54.609+00:00",
+        "2019-01-30T02:39:21.098+00:00",
+        "2019-01-30T02:40:47.523+00:00",
+        "2019-05-20T18:56:08.025+00:00",
+        "2019-07-24T02:48:23.775+00:00",
+        "2019-08-27T16:18:24.586+00:00",
+        "2019-08-27T16:20:52.448+00:00"
+      ]
+    },
+    "reactions": {
+      "email": [
+        "williamhoos@gmail.com"
+      ],
+      "kind": [
+        "like"
+      ]
+    },
+    "Overall Rating": 5.0,
+    "Safety": 0.0,
+    "Efficacy": 0.0,
+    "wiki_text": "---\nTherapy Line: 2nd Line\nExpanded Access: 'No'\n---\n## Lay Summary\n\nA Phase Ib/II, open-label, multicenter, randomized study designed to assess the safety, tolerability, pharmacokinetics and preliminary anti-tumor activity of immunotherapy-based treatment combinations in participants with metastatic Pancreatic Ductal Adenocarcinoma (PDAC). Two cohorts will be enrolled in parallel in this study: Cohort 1 will consist of patients who have received no prior systemic therapy for metastatic PDAC, and Cohort 2 will consist of patients who have received one line of prior systemic therapy for PDAC. In each cohort, eligible patients will be assigned to one of several treatment arms.\n\nThe MORPHEUS trial includes multiple arms targeting the dense microenvironment (both fibrotic surrounding and the immunosuppressive cells) using several agents and mechanisms.\n\nPancreatic cancer has a dense microenvironment that is marked by two characteristics that make the tumors difficult to treat\n\n1. a dense fibrotic surrounding that doesn’t allow chemotherapy agents to penetrate the tumor\n2. immunosuppressive cells, specifically myeloid cells, T-regulatory cells, and others that stop the immune system from attacking the cancer cells.\n\nTogether, these components of the tumor microenvironment contribute to the resistance of pancreatic cancer to therapy including chemotherapy and immunotherapy. Thus, strategies designed to reverse both the fibrotic surrounding and immunosuppressive cells are critical to make therapies effective.\n\nThis trial is also novel and patient centric because it includes multiple arms and allows for patients to receive additional treatments if the first one received doesn’t work.\n\n## Descriptions of the agents used\n\n### [Atezolizumab](https://www.cancer.gov/publications/dictionaries/cancer-drug/def/atezolizumab)\n\n- Summary\n    - PDL1 is expressed on tumor cells and reduces the activation of immune cells. Atezolizumab binds to PDL1 and stops its inhibitory immune effect, hence activating immune cells to attack the cancer cells.\n- Clinical Data\n    - PDL1 drugs are FDA approved and have shown very promising results in many other cancers.\n    - PDL1 approaches have not worked in pancreatic cancer other than MSI-High tumors.\n    - However, some of the reasons believed to have prevented PDL1 approaches from working in pancreatic cancers are addressed by this study’s combination approach.\n\n### [Selicrelumab-RO7009789](https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cd40-agonist-monoclonal-antibody-ro7009789)\n\n- Summary\n    - A CD40 agonist used to deplete the fibrosis that surrounds the tumor and drive immune cells to attack the tumor by targeting various type of cells that can inhibit the immune system and activating immune cells to attack the cancer cells.\n- Clinical Data\n    - Phase I study of 21 patients with unresectable PDAC, CD40 agonist in combination with gemcitabine as first line treatment -best overall response rate of 23.8% and a disease control rate of 81% (Beatty et al. 2011).\n    - 8 of 8 patients with evaluable metastatic lesions were observed to have a response in at least one metastatic lesion and 70% of patients (7/10) demonstrated responses in the primary pancreatic lesion (Beatty et al Clin Cancer Res 2013).\n\n### [Bevacizumab](https://en.wikipedia.org/wiki/Bevacizumab)\n\n- Summary\n    - Inhibits the formation and growth of tumor vessels and hence inhibiting tumor growth.\n- Clinical Data\n    - Bevacizumab is FDA approved in other cancer and was tested in pancreatic cancer in combination with chemotherapy with no added benefit when compared to chemotherapy alone. However, preclinical data shows that disruption of the stroma may increase blood vessel formation which enhances tumor growth and because of this it would be rational to inhibit this process when depleting the stroma.\n\n### [PEGPH20](https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pegylated-recombinant-human-hyaluronidase-ph20)\n\n- Summary\n    - Hyaluronic acid contributes to the dense fibrotic microenvironment\n    - PEGPH20 breaks down hyaluronic acid allowing chemotherapy to penetrate the tumor.\n    - Some patients have tumors with high amounts of Hyaluronic acid (HA-High) while others have low amounts.\n- Clinical data\n    - Patients with high levels of hyaluronic acid in their tumors that were treated with PEGPH20 plus chemotherapy compared to those treated with chemotherapy only, the objective response rate was 45% versus 31%, and median overall survival was 11.5 versus 8.5 months (Hingorani et al 2018).\n    - A phase 3 randomized study is ongoing (waiting for results)\n    - There was some increased risk of blood clots reported in early studies, but it is unclear how much is related to the PEGPH20 treatment. This was addressed by administering heparin or other blood thinning agents along with PEPGH20.\n\n### [RO6874281](https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-fap-interleukin-2-fusion-protein-ro6874281)\n\n- Summary\n    - An anti-FAP/interleukin-2 fusion protein that stimulates an immune response (activating different types of cells- T cells an Natural killer cells to attack the cancer cells)\n- Clinical data\n    - Some long lasting responses seen in other cancers and tumor shrinkage in melanoma- (Melero, 2018 ESMO)\n\n### [Emactuzumab](https://www.cancer.gov/publications/dictionaries/cancer-drug/def/emactuzumab)\n\n- Summary\n    - Binds to CSF1R and enhances T-cell infiltration and enhances the immune response, which inhibits the growth of tumor cells.\n- Clinical data\n    - Cabiralizumab (another agent that binds to CSF1R) plus nivolumab (anti-PD1) showed confirmed objective response in 4 of 31 (13%) heavily pretreated pancreatic cancer patients (2017 SITC conference)\n\n## Details of the Trial\n\nThe trial is an adaptive platform trial with the flexibility to open new treatment arms as agents/combinations become available and to close arms that don’t show activity or have unacceptable toxicity. The trial was first opened in July 2017 and various changes have been implemented including opening and closing arms and expanding eligibility to first line patients (addition of cohort 1).\n\nCurrently (1/2019), there are two cohorts in the study:\n\n**Cohort 1:** Patients who have not received prior systemic therapy (treatment Naïve)\n\nPatients who have not received chemotherapy for metastatic disease will be randomized to receive one of the following:\n\n1. Gem/abraxane \\*\\*\n2. Gem/abraxane + Atezolizumab (anti-PDL1) +Selicrelumab (CD40 agonist)\n3. Gem/abraxane + Atezolizumab (anti-PDL1) +Selicrelumab (CD40 agonist) + Bevacizumab (VEGF inhibitor)\n4. Gem/abraxane + Atezolizumab (anti-PDL1) + Emactuzumab (anti- CSF1R)\n\n\\*\\* Patients who progress on gem/abraxane (#1) will be given the option to enroll in cohort 2 (if eligible)\n\n**Cohort 2:** Patients who have disease progression during administration of either 5-FU− or gemcitabine-based first-line chemotherapy.\n\nPatients will be randomized to receive one of the following:\n\n1. Atezolizumab (anti-PDL1) + Cobimetinib (MEK inhibitor) (arm closed) \n2. Atezolizumab (anti-PDL1) + PEGPH20 (targets hyaluronic acid) **(This arm may have closed)**\n3. Atezolizumab (anti-PDL1) + BL-8040 antagonist for CXCR4 (arm closed)\n4. Atezolizumab (anti-PDL1) + RO6874281 (anti-FAP) every 2 weeks\n5. Atezolizumab (anti-PDL1) + RO6874281 (anti-FAP) every 3 weeks\n6. Atezolizumab (anti-PDL1) + Emactuzumab (anti- CSF1R)\\*\\*\n7. If patient has progressed on 5Fu therapy, they will receive Gem/ab, if they have progressed on Gem/ab will receive 5fu\\*\\*\n\n\\*\\*Patient who enroll in #6 or 7 and progress, can receive Atezolizumab + RO6874281 (#4 or #5).\n\n​\n\n# Pros\n\nCohort 1 (1st. line)\n\n- The study includes a base of the standard gem/abraxane in first line for all patients.\n- The MORPHES trial includes multiple arms targeting the dense microenvironment (both fibrotic surrounding and the immunosuppressive cells) using several agents and mechanisms. me of the drugs/parts of the combinations or have shown to increase efficacy results with reasonable side effect risk in other cancers.\n\nCohort 2 (2nd/3rd line)\n\n- Most arms of the study are testing drugs in combination that deplete fibrosis and enhance the immune effect. The combinations have good rationale and previous promising data for some of the drugs/parts of the combinations or have shown to increase efficacy results with reasonable side effect risk in other cancers.\n- Some arms allow crossover to another arm to try a 2nd/3rd line approach.\n\n## Cons\n\nCohort 1 (1st. line)\n\n- The multiple arms makes it a bit confusing to know what treatment will be received in order to evaluate the trial as an option.\n- It is randomized, so some patients will get only gem/abraxane (but patients who progress on gem/abraxane may have a chance to receive the investigational drug combination in 2nd line in cohort 2). Cohort 2 (2nd/3rd line)\n\nCohort 2 (2nd/3rd line)\n\n- The multiple arms makes it a bit confusing to know what treatment will be received in order to evaluate the trial as an option.\n- It is randomized, hence some patients will receive chemotherapy only as 2nd line. But patient could be eligible for one of the other arms as 3rd line if they progress on the chemotherapy only arm.\n- PEGPH20 has shown clinical benefit for tumors that express high levels of HA (hyaluronic acid) when combined with chemotherapy. This is because the chemotherapy has better access to the tumor cells after the breakdown of HA. Targeting low expressing HA tumors with PEGPH20 with other combinations may also have benefit through other mechanisms involving immune response.\n\n​\n\n## Ideal Patient\n\n- Patient who progressed on first line therapy can enroll in cohort 2.\n- Patient who has not started therapy can enroll in cohort 1.\n\n## Contraindicated Patient\n\n- Patient who have progressed on two lines of therapy.\n\n## References\n\n[**Selicrelumab-RO7009789**](https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cd40-agonist-monoclonal-antibody-ro7009789)\n\n[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3406187/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3406187/)\n\n[http://clincancerres.aacrjournals.org/content/19/22/6286](http://clincancerres.aacrjournals.org/content/19/22/6286)\n\n[**PEGPH20**](https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pegylated-recombinant-human-hyaluronidase-ph20)\n\n[http://ascopubs.org/doi/10.1200/JCO.2017.74.9564](http://ascopubs.org/doi/10.1200/JCO.2017.74.9564)\n\n[**RO6874281**](https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-fap-interleukin-2-fusion-protein-ro6874281)\n\n[https://oncologypro.esmo.org/Meeting-Resources/ESMO-2018-Congress/Clinical-activity-safety-and-PK-PD-from-a-Phase-1-study-of-RO6874281-a-fibroblast-activation-protein-FAP-targeted-interleukin-2-variant-IL-2v](https://oncologypro.esmo.org/Meeting-Resources/ESMO-2018-Congress/Clinical-activity-safety-and-PK-PD-from-a-Phase-1-study-of-RO6874281-a-fibroblast-activation-protein-FAP-targeted-interleukin-2-variant-IL-2v)\n\n[**Emactuzumab**](https://www.cancer.gov/publications/dictionaries/cancer-drug/def/emactuzumab)**/ CSF1R inhibitor:**\n\n[https://www.fiveprime.com/file.cfm/16/docs/CB\\_2017\\_11\\_SITC\\_Oral\\_CSF1R.pdf](https://www.fiveprime.com/file.cfm/16/docs/CB_2017_11_SITC_Oral_CSF1R.pdf)\n\n​\n\n# Requests\n\n- Post open questions about study here (temporary)\n",
+    "front_matter_keys": [
+      "Therapy Line",
+      "Expanded Access"
+    ],
+    "fm_Therapy Line": [
+      "2nd Line"
+    ],
+    "fm_Expanded Access": [
+      "No"
+    ]
+  }
+}
+  ]}

@@ -16,35 +16,26 @@ const typeDefs = `
     uuid: String!
   }
   
-  type Product {
-    name: String
-    default_image: String
-    new_product: Boolean
-    brand: String!
-    promos: [String]
-    article: String
-    promotion: Boolean
-    price: String
-    in_stocks: [inStocks]
-    in_others: inOthers
-    in_waiting: inOthers
-    currency_name: String 
+  type Study {
+    brief_title: String
+    facility_states: [String]
+    facility_names: [String]
   }
 
   type Query {
-    products: [Product]
+    studies: [Study]
   }
 `;
 
 // The root provides a resolver function for each API endpoint
 const resolvers = {
   Query: {
-    products: () => new Promise((resolve, reject) => {
+    studies: () => new Promise((resolve, reject) => {
       ElasticSearchClient({...elasticSearchSchema})
         .then(r => {
           let _source = r['hits']['hits'];
-              _source.map((item, i) => _source[i] = item._source);
-
+          _source = _source.map((item, i) => item._source);
+          console.log(_source);
           resolve(_source);
         });
     }),

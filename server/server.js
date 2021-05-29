@@ -6,15 +6,13 @@ const {ApolloServer} = require('apollo-server-express');
 const {ApiElasticSearchClient} = require('./server.elasticsearch');
 const madeExecutableSchema = require('./server.graphql');
 
-// PORT
-const PORT = 9100;
-
 const server = new ApolloServer({
   schema: madeExecutableSchema,
   playground: true,
 });
 
 // TODO Use the BodyParser as a middleware
+app.use(bodyParser.urlencoded());
 app.use(bodyParser.json());
 
 // TODO Set port for the app to listen on
@@ -36,6 +34,9 @@ app.get('/search', ApiElasticSearchClient);
 
 server.applyMiddleware({app});
 
-app.listen(PORT, function () {
-  console.log(`Express server listening on port :${PORT}${server.graphqlPath}`);
+// PORT
+const PORT = 9100;
+
+app.listen(PORT, () => {
+  console.log(`Express server running on  http://localhost:${PORT}${server.graphqlPath}`);
 });
